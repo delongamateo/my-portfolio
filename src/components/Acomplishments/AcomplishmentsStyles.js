@@ -132,3 +132,9 @@ export const IconContainer = styled.div`
     justify-content: space-between;
   }
 `
+export const Img = styled.img`
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  overflow: hidden;
+`;
